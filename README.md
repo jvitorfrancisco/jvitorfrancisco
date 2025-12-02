@@ -5,7 +5,7 @@ const somethingAboutMe = {
   name: "João Vitor de Francisco",
   countryOfBirth: 'Brasil',
   age: getCurrentYear() - 1996,
-  hobbies: ['Tomar banho de rio','Jogos de tabuleiro','Ouvir Música', 'DIY', 'Jogar MTG Commander', 'Linux Ricing'],
+  hobbies: ['Tomar banho de rio','Jogos de tabuleiro','Música', 'Jogar MTG Commander', 'Linux Ricing'],
   languages: ['Português', 'Inglês', 'Francês: aprendendo'],
   programmingLanguages: ['JavaScript', 'Dart', 'C#']
 }

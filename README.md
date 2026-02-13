@@ -7,7 +7,7 @@ const somethingAboutMe = {
   age: getCurrentYear() - 1996,
   hobbies: ['Tomar banho de rio','Jogos de tabuleiro','Música', 'Jogar MTG Commander', 'Linux Ricing'],
   languages: ['Português', 'Inglês', 'Francês: aprendendo'],
-  programmingLanguages: ['JavaScript', 'Dart', 'C#']
+  programmingLanguages: ['JavaScript', 'Dart', 'C#', 'Ruby']
 }
 ```
 

@@ -12,8 +12,7 @@ const somethingAboutMe = {
 ```
 
 ### Distros and OS that i use
-![OS](https://img.shields.io/badge/Hyprland-white?style=for-the-badge&logo=archlinux&logoColor=05f7f3&logoSize=auto&label=Arch&labelColor=black&link=https%3A%2F%2Fhypr.land%2F)
-![OS](https://img.shields.io/badge/KDE-white?style=for-the-badge&logo=opensuse&logoColor=green&logoSize=auto&label=open-suse&labelColor=black&link=https%3A%2F%2Fget.opensuse.org%2Ftumbleweed%2F)
-![OS](https://img.shields.io/badge/Gnome-white?style=for-the-badge&logo=ubuntu&logoColor=orange&logoSize=auto&label=ubuntu&labelColor=black&link=https%3A%2F%2Fubuntu.com%2Fdownload)
+[![OS](https://img.shields.io/badge/Hyprland-white?style=for-the-badge&logo=archlinux&logoColor=05f7f3&logoSize=auto&label=Arch&labelColor=black)](https://hypr.land/)
+[![OS](https://img.shields.io/badge/KDE-white?style=for-the-badge&logo=archlinux&logoColor=05f7f3&logoSize=auto&label=Arch&labelColor=black)](https://archlinux.org/)
 
 ![Man Will Destroy the Plannet](man-will-destroy-everything.gif)
